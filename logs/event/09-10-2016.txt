@@ -1,0 +1,17 @@
+[10-09-2016 @ 00:16:27.410 BST] [emotesHandler.js:118] Built 57096 regular expressions for emote handling.
+[10-09-2016 @ 01:16:39.522 BST] [emotesHandler.js:118] Built 57095 regular expressions for emote handling.
+[10-09-2016 @ 02:16:52.866 BST] [emotesHandler.js:118] Built 57092 regular expressions for emote handling.
+[10-09-2016 @ 03:17:04.688 BST] [emotesHandler.js:118] Built 57088 regular expressions for emote handling.
+[10-09-2016 @ 04:17:15.770 BST] [emotesHandler.js:118] Built 57085 regular expressions for emote handling.
+[10-09-2016 @ 05:17:27.617 BST] [emotesHandler.js:118] Built 57078 regular expressions for emote handling.
+[10-09-2016 @ 06:17:40.111 BST] [emotesHandler.js:118] Built 57076 regular expressions for emote handling.
+[10-09-2016 @ 07:17:50.861 BST] [emotesHandler.js:118] Built 57066 regular expressions for emote handling.
+[10-09-2016 @ 08:18:03.107 BST] [emotesHandler.js:118] Built 57061 regular expressions for emote handling.
+[10-09-2016 @ 09:18:15.153 BST] [emotesHandler.js:118] Built 57058 regular expressions for emote handling.
+[10-09-2016 @ 10:11:45.282 BST] [betSystem.js:89] notaromanian opened a bet with options: "win vs lose vs draw"
+[10-09-2016 @ 10:18:28.163 BST] [emotesHandler.js:118] Built 57056 regular expressions for emote handling.
+[10-09-2016 @ 10:28:41.011 BST] [betSystem.js:218] notaromanian closed a bet.
+[10-09-2016 @ 10:29:22.825 BST] [betSystem.js:89] notaromanian opened a bet with options: "win vs lose vs draw"
+[10-09-2016 @ 10:44:02.599 BST] [betSystem.js:281] notaromanian set the bet maximum to 200
+[10-09-2016 @ 10:44:19.429 BST] [betSystem.js:296] notaromanian set the bet timer to 150 seconds.
+[10-09-2016 @ 10:44:42.659 BST] [betSystem.js:89] notaromanian opened a bet with options: "win vs lose vs draw"

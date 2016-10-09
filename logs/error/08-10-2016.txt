@@ -1,0 +1,56 @@
+[10-08-2016 @ 14:06:06.190 BST] [commandRegister.js:74] Failed to register command as already registered: vod Script: ./commands/streamCommand.js Original Script: ./commands/customCommands.js
+[10-08-2016 @ 14:06:07.096 BST] [commandRegister.js:74] Failed to register command as already registered: twitter Script: ./handlers/twitterHandler.js Original Script: ./commands/customCommands.js
+[10-08-2016 @ 14:49:09.210 BST] [commandRegister.js:74] Failed to register command as already registered: vod Script: ./commands/streamCommand.js Original Script: ./commands/customCommands.js
+[10-08-2016 @ 14:49:10.114 BST] [commandRegister.js:74] Failed to register command as already registered: twitter Script: ./handlers/twitterHandler.js Original Script: ./commands/customCommands.js
+[10-08-2016 @ 15:03:37.094 BST] [commandRegister.js:74] Failed to register command as already registered: vod Script: ./commands/streamCommand.js Original Script: ./commands/customCommands.js
+[10-08-2016 @ 15:03:37.905 BST] [commandRegister.js:74] Failed to register command as already registered: twitter Script: ./handlers/twitterHandler.js Original Script: ./commands/customCommands.js
+[10-08-2016 @ 15:04:08.326 BST] [customCommands.js:460] Cannot add custom command, command already exists: uptime
+[10-08-2016 @ 15:04:08.330 BST] [customCommands.js:460] Cannot add custom command, command already exists: playtime
+[10-08-2016 @ 15:04:08.338 BST] [customCommands.js:460] Cannot add custom command, command already exists: title
+[10-08-2016 @ 15:04:08.341 BST] [customCommands.js:460] Cannot add custom command, command already exists: game
+[10-08-2016 @ 15:04:08.343 BST] [customCommands.js:460] Cannot add custom command, command already exists: sips
+[10-08-2016 @ 15:04:08.344 BST] [customCommands.js:460] Cannot add custom command, command already exists: rip
+[10-08-2016 @ 15:04:08.346 BST] [customCommands.js:460] Cannot add custom command, command already exists: sipspls
+[10-08-2016 @ 15:04:08.348 BST] [customCommands.js:460] Cannot add custom command, command already exists: playlist
+[10-08-2016 @ 15:04:08.350 BST] [customCommands.js:460] Cannot add custom command, command already exists: donate
+[10-08-2016 @ 15:04:08.351 BST] [customCommands.js:460] Cannot add custom command, command already exists: steam
+[10-08-2016 @ 15:04:08.353 BST] [customCommands.js:460] Cannot add custom command, command already exists: discord
+[10-08-2016 @ 15:04:08.354 BST] [customCommands.js:460] Cannot add custom command, command already exists: vod
+[10-08-2016 @ 15:04:08.356 BST] [customCommands.js:460] Cannot add custom command, command already exists: routine
+[10-08-2016 @ 15:04:08.357 BST] [customCommands.js:460] Cannot add custom command, command already exists: youtube
+[10-08-2016 @ 15:04:08.359 BST] [customCommands.js:460] Cannot add custom command, command already exists: reddit
+[10-08-2016 @ 15:04:08.360 BST] [customCommands.js:460] Cannot add custom command, command already exists: twitter
+[10-08-2016 @ 15:04:08.362 BST] [customCommands.js:460] Cannot add custom command, command already exists: rigged
+[10-08-2016 @ 15:04:08.364 BST] [customCommands.js:460] Cannot add custom command, command already exists: subscribe
+[10-08-2016 @ 15:04:08.365 BST] [customCommands.js:460] Cannot add custom command, command already exists: bettinghelp
+[10-08-2016 @ 15:04:08.366 BST] [customCommands.js:460] Cannot add custom command, command already exists: xmdogmx
+[10-08-2016 @ 15:04:13.892 BST] [customCommands.js:460] Cannot add custom command, command already exists: uptime
+[10-08-2016 @ 15:04:13.907 BST] [customCommands.js:460] Cannot add custom command, command already exists: playtime
+[10-08-2016 @ 15:04:13.908 BST] [customCommands.js:460] Cannot add custom command, command already exists: title
+[10-08-2016 @ 15:04:13.909 BST] [customCommands.js:460] Cannot add custom command, command already exists: game
+[10-08-2016 @ 15:04:13.910 BST] [customCommands.js:460] Cannot add custom command, command already exists: sips
+[10-08-2016 @ 15:04:13.912 BST] [customCommands.js:460] Cannot add custom command, command already exists: rip
+[10-08-2016 @ 15:04:13.913 BST] [customCommands.js:460] Cannot add custom command, command already exists: sipspls
+[10-08-2016 @ 15:04:13.915 BST] [customCommands.js:460] Cannot add custom command, command already exists: playlist
+[10-08-2016 @ 15:04:13.916 BST] [customCommands.js:460] Cannot add custom command, command already exists: donate
+[10-08-2016 @ 15:04:13.917 BST] [customCommands.js:460] Cannot add custom command, command already exists: steam
+[10-08-2016 @ 15:04:13.918 BST] [customCommands.js:460] Cannot add custom command, command already exists: discord
+[10-08-2016 @ 15:04:13.919 BST] [customCommands.js:460] Cannot add custom command, command already exists: vod
+[10-08-2016 @ 15:04:13.920 BST] [customCommands.js:460] Cannot add custom command, command already exists: routine
+[10-08-2016 @ 15:04:13.943 BST] [customCommands.js:460] Cannot add custom command, command already exists: youtube
+[10-08-2016 @ 15:04:13.945 BST] [customCommands.js:460] Cannot add custom command, command already exists: reddit
+[10-08-2016 @ 15:04:13.946 BST] [customCommands.js:460] Cannot add custom command, command already exists: twitter
+[10-08-2016 @ 15:04:13.947 BST] [customCommands.js:460] Cannot add custom command, command already exists: rigged
+[10-08-2016 @ 15:04:13.948 BST] [customCommands.js:460] Cannot add custom command, command already exists: subscribe
+[10-08-2016 @ 15:04:13.950 BST] [customCommands.js:460] Cannot add custom command, command already exists: bettinghelp
+[10-08-2016 @ 15:04:13.951 BST] [customCommands.js:460] Cannot add custom command, command already exists: xmdogmx
+[10-08-2016 @ 16:31:26.624 BST] [commandRegister.js:74] Failed to register command as already registered: hostmessage Script: ./handlers/hostHandler.js Original Script: ./handlers/hostHandler.js
+[10-08-2016 @ 16:31:26.627 BST] [commandRegister.js:74] Failed to register command as already registered: hostreward Script: ./handlers/hostHandler.js Original Script: ./handlers/hostHandler.js
+[10-08-2016 @ 16:31:26.630 BST] [commandRegister.js:74] Failed to register command as already registered: unhost Script: ./handlers/hostHandler.js Original Script: ./handlers/hostHandler.js
+[10-08-2016 @ 16:31:26.633 BST] [commandRegister.js:74] Failed to register command as already registered: host Script: ./handlers/hostHandler.js Original Script: ./handlers/hostHandler.js
+[10-08-2016 @ 16:31:26.637 BST] [commandRegister.js:74] Failed to register command as already registered: hostcount Script: ./handlers/hostHandler.js Original Script: ./handlers/hostHandler.js
+[10-08-2016 @ 16:31:26.639 BST] [commandRegister.js:74] Failed to register command as already registered: hostlist Script: ./handlers/hostHandler.js Original Script: ./handlers/hostHandler.js
+[10-08-2016 @ 16:31:26.641 BST] [commandRegister.js:74] Failed to register command as already registered: hosthistory Script: ./handlers/hostHandler.js Original Script: ./handlers/hostHandler.js
+[10-08-2016 @ 16:52:42.405 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-08-2016 @ 19:25:54.454 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-08-2016 @ 22:59:50.318 BST] [commandRegister.js:74] Failed to register command as already registered: routine Script: ./commands/customCommands.js Original Script: ./commands/customCommands.js

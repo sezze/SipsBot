@@ -1,0 +1,27 @@
+[10-09-2016 @ 05:01:48.751 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 05:26:54.678 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 05:41:47.110 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 09:49:15.172 BST] [init.js:302] (hook.call, NewReSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "subscriber" is not defined.
+[10-09-2016 @ 09:49:34.029 BST] [init.js:302] (hook.call, NewReSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "subscriber" is not defined.
+[10-09-2016 @ 09:49:46.275 BST] [init.js:302] (hook.call, NewReSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "subscriber" is not defined.
+[10-09-2016 @ 09:49:56.391 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 09:52:53.881 BST] [init.js:302] (hook.call, NewReSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "subscriber" is not defined.
+[10-09-2016 @ 09:55:31.927 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 09:56:20.929 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 09:57:08.229 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 09:57:15.837 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 09:57:46.337 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 09:58:33.046 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:00:31.821 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:01:35.971 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:02:31.551 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:04:15.575 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:07:44.156 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:08:10.449 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:10:18.434 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:12:51.722 BST] [init.js:293] (hook.call, command, ./systems/betSystem.js) TypeError: Cannot call method "toLowerCase" of undefined
+[10-09-2016 @ 10:12:54.331 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:13:08.734 BST] [init.js:293] (hook.call, command, ./systems/betSystem.js) TypeError: Cannot call method "toLowerCase" of undefined
+[10-09-2016 @ 10:13:38.593 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:16:07.543 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
+[10-09-2016 @ 10:50:53.430 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.

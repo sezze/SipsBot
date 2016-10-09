@@ -1,0 +1,41 @@
+[10-08-2016 @ 14:06:02.635 BST] [init.js:722] Core loaded, initializing bot...
+[10-08-2016 @ 14:06:04.414 BST] [init.js:1266] init.js api's loaded.
+[10-08-2016 @ 14:06:04.460 BST] [logging.js:183] Starting Log Rotation
+[10-08-2016 @ 14:06:04.470 BST] [logging.js:195] Finished Log Rotation
+[10-08-2016 @ 14:06:22.261 BST] [emotesHandler.js:118] Built 57125 regular expressions for emote handling.
+[10-08-2016 @ 14:06:43.622 BST] [subscribeHandler.js:36] Subscriber announcements enabled
+[10-08-2016 @ 14:15:18.863 BST] [init.js:637] SipsBot disabled module "./games/slotMachine.js"
+[10-08-2016 @ 14:49:05.628 BST] [init.js:722] Core loaded, initializing bot...
+[10-08-2016 @ 14:49:07.404 BST] [init.js:1266] init.js api's loaded.
+[10-08-2016 @ 14:49:07.462 BST] [logging.js:183] Starting Log Rotation
+[10-08-2016 @ 14:49:07.473 BST] [logging.js:195] Finished Log Rotation
+[10-08-2016 @ 14:49:26.499 BST] [emotesHandler.js:118] Built 57124 regular expressions for emote handling.
+[10-08-2016 @ 14:49:46.555 BST] [subscribeHandler.js:36] Subscriber announcements enabled
+[10-08-2016 @ 15:03:33.494 BST] [init.js:722] Core loaded, initializing bot...
+[10-08-2016 @ 15:03:35.348 BST] [init.js:1266] init.js api's loaded.
+[10-08-2016 @ 15:03:35.395 BST] [logging.js:183] Starting Log Rotation
+[10-08-2016 @ 15:03:35.407 BST] [logging.js:195] Finished Log Rotation
+[10-08-2016 @ 15:04:14.237 BST] [subscribeHandler.js:36] Subscriber announcements enabled
+[10-08-2016 @ 15:05:35.006 BST] [emotesHandler.js:139] Built 57124 regular expressions for emote handling from cache.
+[10-08-2016 @ 15:14:15.538 BST] [emotesHandler.js:118] Built 57124 regular expressions for emote handling.
+[10-08-2016 @ 15:57:28.377 BST] [init.js:565] SipsBot enabled module "./handlers/hostHandler.js"
+[10-08-2016 @ 15:57:43.850 BST] [init.js:565] SipsBot enabled module "./systems/raidSystem.js"
+[10-08-2016 @ 16:01:53.378 BST] [init.js:637] SipsBot disabled module "./systems/raidSystem.js"
+[10-08-2016 @ 16:08:43.094 BST] [init.js:637] SipsBot disabled module "./handlers/hostHandler.js"
+[10-08-2016 @ 16:14:26.072 BST] [emotesHandler.js:118] Built 57119 regular expressions for emote handling.
+[10-08-2016 @ 16:31:26.598 BST] [init.js:565] SipsBot enabled module "./handlers/hostHandler.js"
+[10-08-2016 @ 16:31:40.746 BST] [hostHandler.js:187] theonlytermin hosted channel hatfilms
+[10-08-2016 @ 16:33:50.910 BST] [hostHandler.js:187] sipsbot hosted channel hatfilms
+[10-08-2016 @ 16:39:40.636 BST] [streamInfo.js:422] sipsbot changed the current status to when a dad plays video games test
+[10-08-2016 @ 16:40:38.794 BST] [streamInfo.js:422] sipsbot changed the current status to when a dad plays video games
+[10-08-2016 @ 16:40:41.719 BST] [streamInfo.js:422] sipsbot changed the current status to when a dad plays video games
+[10-08-2016 @ 16:41:15.459 BST] [hostHandler.js:187] sipsbot hosted channel hatfilms
+[10-08-2016 @ 17:14:58.117 BST] [emotesHandler.js:118] Built 57115 regular expressions for emote handling.
+[10-08-2016 @ 18:15:09.814 BST] [emotesHandler.js:118] Built 57111 regular expressions for emote handling.
+[10-08-2016 @ 19:15:22.965 BST] [emotesHandler.js:118] Built 57106 regular expressions for emote handling.
+[10-08-2016 @ 20:15:35.127 BST] [emotesHandler.js:118] Built 57104 regular expressions for emote handling.
+[10-08-2016 @ 21:15:48.571 BST] [emotesHandler.js:118] Built 57100 regular expressions for emote handling.
+[10-08-2016 @ 22:16:00.923 BST] [emotesHandler.js:118] Built 57104 regular expressions for emote handling.
+[10-08-2016 @ 22:31:02.059 BST] [customCommands.js:543] jessagemeep added command !newbot with the message "We've had a new bot installed. Some things have changed. !cmdlist has been replaced by !commands."
+[10-08-2016 @ 22:59:50.321 BST] [customCommands.js:575] jessagemeep edited the command !routine with the message "Sips's schedule isn't set in stone but he usually streams from between 3pm - 6pm BST. Sometimes he does a surprise stream on the weekend. Even sips has no idea when he'll stream."
+[10-08-2016 @ 23:16:14.092 BST] [emotesHandler.js:118] Built 57103 regular expressions for emote handling.

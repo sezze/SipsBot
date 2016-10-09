@@ -1,0 +1,3 @@
+[10-05-2016 @ 18:40:33.221 BST] [commandRegister.js:74] Failed to register command as already registered: vod Script: ./commands/streamCommand.js Original Script: ./commands/customCommands.js
+[10-05-2016 @ 18:40:33.969 BST] [commandRegister.js:74] Failed to register command as already registered: twitter Script: ./handlers/twitterHandler.js Original Script: ./commands/customCommands.js
+[10-05-2016 @ 18:41:31.134 BST] [init.js:302] (hook.call, NewSubscriber, ./handlers/subscribeHandler.js) ReferenceError: "resubscriber" is not defined.
