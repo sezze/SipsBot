@@ -149,7 +149,7 @@
         for (i in betTable) {
             bet = betTable[i];
             if (bet.option.equalsIgnoreCase(betWinning)) {
-                betTotal = bet.amount;
+                betTotal += bet.amount;
             }
         }
 
